@@ -1,4 +1,6 @@
+*.bak
 src/vitunes
 src/vitunes.core
 src/test
 src/test.core
+src/*.o
